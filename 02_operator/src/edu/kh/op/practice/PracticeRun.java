@@ -1,4 +1,4 @@
-package edu.kh.op.practice.run;
+package edu.kh.op.practice;
 
 import edu.kh.op.practice.OperatorPractice;
 import edu.kh.op.practice.OperatorPractice2;

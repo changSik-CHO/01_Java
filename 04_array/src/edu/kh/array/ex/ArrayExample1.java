@@ -376,7 +376,3 @@ public class ArrayExample1 {
 	
 
 }
-
-		
-		
-		
